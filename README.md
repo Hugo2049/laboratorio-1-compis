@@ -3,6 +3,13 @@
 Analizador léxico y sintáctico del lenguaje **Compiscript** (`.cps`), construido con
 **Java 17 + ANTLR4 + Swing**. Laboratorio 01 — Construcción de Compiladores, UVG.
 
+## Link del video
+https://youtu.be/I9vZxcpHLpE
+
+**Estado:** Laboratorio completado y entregado ✓
+
+
+
 ## Requisitos
 
 - JDK 17 o superior.
